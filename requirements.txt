@@ -1,1 +1,6 @@
 flask
+requests
+aiohttp
+pycryptodome
+protobuf
+
